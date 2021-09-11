@@ -3,6 +3,10 @@ Esta es la historio de Fredy
 tiene 33 años, nacio en Colombia, 
 viviendo en todo el mundo 
 
-Esta es su historia
+ Esta es su historia
 
 En camara parece alto pero la verdad no es tan alto.
+
+Hoy es el CEO de platzi.
+
+Esta es la ultima linea agregada y deberia ser mostrada al final
